@@ -1,5 +1,5 @@
 appId: 'moolchoko'
-productName: '마크체육대'
+productName: '버츄얼 : 화살 전쟁'
 artifactName: 'moolchoko-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2024 gotiger (original author: © 2018-2024 Daniel Scalzi)'

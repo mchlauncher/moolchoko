@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "마크체육대 : 입시평가"
+title = "버츄얼 : 화살 전쟁"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/mchlauncher/moolchoko"
@@ -18,6 +18,6 @@ sourceGithubLink = "https://github.com/mchlauncher/moolchoko"
 supportLink = "https://github.com/mchlauncher/moolchoko/issues"
 
 [ejs.welcome]
-welcomeHeader = "마크체육대 : 입시평가"
+welcomeHeader = "버츄얼 : 화살 전쟁"
 welcomeDescription = ""
 welcomeDescCTA = "[계속] 버튼을 눌러 계속 진행하여 주세요."
