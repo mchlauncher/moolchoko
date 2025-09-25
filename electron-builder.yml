@@ -1,8 +1,8 @@
 appId: 'moolchoko'
-productName: '버츄얼 : 화살 전쟁'
+productName: '퀴즈쇼 1vs100'
 artifactName: 'moolchoko-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2024 gotiger (original author: © 2018-2024 Daniel Scalzi)'
+copyright: 'Copyright © 2025 gotiger (original author: © 2018-2025 Daniel Scalzi)'
 
 asar: true
 compression: 'maximum'
