@@ -1,5 +1,5 @@
 appId: 'moolchoko'
-productName: '퀴즈쇼 1vs100'
+productName: '다이아전쟁'
 artifactName: 'moolchoko-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2025 gotiger (original author: © 2018-2025 Daniel Scalzi)'
