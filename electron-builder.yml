@@ -1,5 +1,5 @@
 appId: 'moolchoko'
-productName: '다메다메 서버'
+productName: '다메다메3'
 artifactName: 'moolchoko-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2025 gotiger (original author: © 2018-2025 Daniel Scalzi)'

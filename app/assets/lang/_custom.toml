@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "다메다메 서버"
+title = "다메다메3"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/mchlauncher/moolchoko"
@@ -18,6 +18,6 @@ sourceGithubLink = "https://github.com/mchlauncher/moolchoko"
 supportLink = "https://github.com/mchlauncher/moolchoko/issues"
 
 [ejs.welcome]
-welcomeHeader = "다메다메 서버"
+welcomeHeader = "다메다메3"
 welcomeDescription = ""
 welcomeDescCTA = "[계속] 버튼을 눌러 계속 진행하여 주세요."
