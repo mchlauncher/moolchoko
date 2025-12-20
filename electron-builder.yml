@@ -1,5 +1,5 @@
 appId: 'moolchoko'
-productName: '다메다메3'
+productName: '크리스마스 힐링 마을'
 artifactName: 'moolchoko-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2025 gotiger (original author: © 2018-2025 Daniel Scalzi)'
